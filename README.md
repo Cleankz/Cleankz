@@ -19,6 +19,9 @@
   <a href="https://www.kaggle.com/cleankz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
   </a>
+  <a href="https://ods.ai/users/y2e78cad0c66b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ODS&logo=ods&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ods logo"  />
+  </a>
 </div>
 ###
 
